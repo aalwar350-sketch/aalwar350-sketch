@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME_HERE/YOUR_REPO_NAME_HERE/me.jpg" width="100" style="border-radius: 50%"/> <br> Hey! I'm Ahmed Alwaer <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center"><img src="لينك_الصورة_هنا" width="120" style="border-radius: 50%; border: 2px solid #5C3EE8;"/> <br> Hey! I'm Ahmed Alwaer <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <p align="center">Welcome to my profile! </br> I'm an <b>Artificial Intelligence Student</b> passionate about data and algorithms, working towards a future in <b>Computer Vision</b> <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="20"/>.</p>
 
@@ -38,14 +38,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AhmedAlwaer&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedAlwaer&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>"Code is not just for computers, it's for building the future."</i></p>
+<p align="center"><i>"The best way to predict the future is to invent it."</i></p>
