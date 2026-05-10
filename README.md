@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME_HERE/YOUR_REPO_NAME_HERE/me.jpg" width="100" style="border-radius: 50%"/> <br> Hey! I'm Ahmed Alwaer <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<h1 align="center"><img src="https://github.com/aalwar350-sketch.png" width="100" style="border-radius: 50%"/> <br> Hey! I'm Ahmed Alwaer <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
 
 <p align="center">Welcome to my profile! </br> I'm an <b>Artificial Intelligence Student</b> passionate about data and algorithms, working towards a future in <b>Computer Vision</b> <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png" width="20"/>.</p>
 
@@ -38,8 +38,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aalwar350-sketch&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=aalwar350-sketch&theme=tokyonight" />
 </p>
 
 <p align="center">
