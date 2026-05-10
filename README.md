@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:aalwar350@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
